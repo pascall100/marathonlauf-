@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(21, 21, 21);
+    
+        display: block;
+        width: 100%;
+        border: none;
+        background-color: #0e85c6;
+        color: white;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+       
+}
